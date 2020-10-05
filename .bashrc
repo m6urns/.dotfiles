@@ -31,9 +31,6 @@ source $BASH_IT/bash_it.sh
 
 setxkbmap -option caps:swapescape
 
-alias lab='ssh mburns@lab.matthewburns.net -p 215'
-alias home='ssh matt@home.matthewburns.net'
-
 alias ls='ls -lrt --color=auto'
 alias c='clear'
 alias la='ls -lhart --color=auto'
